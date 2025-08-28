@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCtrModel.a CMakeFiles/CtrModel.dir/src/ComputeIvpJacobianMatrices.cpp.o CMakeFiles/CtrModel.dir/src/CtrModel.cpp.o CMakeFiles/CtrModel.dir/src/bcError.cpp.o CMakeFiles/CtrModel.dir/src/loadParameters.cpp.o CMakeFiles/CtrModel.dir/src/odeCtr.cpp.o CMakeFiles/CtrModel.dir/src/odeIntCtrRK4.cpp.o CMakeFiles/CtrModel.dir/src/plotCtr.cpp.o CMakeFiles/CtrModel.dir/src/segmenting.cpp.o CMakeFiles/CtrModel.dir/src/solveIVP.cpp.o
+/usr/bin/ranlib libCtrModel.a
